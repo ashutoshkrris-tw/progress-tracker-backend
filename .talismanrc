@@ -1,0 +1,14 @@
+fileignoreconfig:
+- filename: src/main/java/com/ashutoshkrris/projects/progresstracker/jwt/JwtInMemoryUserDetailsService.java
+  checksum: 159e79e0e33dc1d02f983b993a076856bfa8964009e8bb4148a9aa9519fefd10
+- filename: src/main/java/com/ashutoshkrris/projects/progresstracker/jwt/resource/JwtTokenRequest.java
+  checksum: d5fea9909cd7d28c9bba302e27c0f998e4752b6893ec99c56a7ad32b33c52d5b
+- filename: src/main/java/com/ashutoshkrris/projects/progresstracker/jwt/JwtTokenAuthorizationOncePerRequestFilter.java
+  checksum: f49f2e2aa75b723d547e3a6bb0194a0a55ef6f9904c609b6197bed26ac41a1d7
+- filename: src/main/resources/application.properties
+  checksum: f8f5d5f2a8b2ca508c39ef6c83681c857f1924f28dcfdb65664ecd46fe787e6b
+- filename: src/main/java/com/ashutoshkrris/projects/progresstracker/jwt/JwtTokenUtil.java
+  checksum: 47d14daebd41fe4843464cfba14560d685715cc4cba1932bd5ee1ad29814e367
+- filename: src/main/java/com/ashutoshkrris/projects/progresstracker/jwt/JwtUserDetails.java
+  checksum: 851133b91b72cc8ff3319f7ca7648c947344d2af5e80f59114f72ee5d770a3f8
+version: ""
